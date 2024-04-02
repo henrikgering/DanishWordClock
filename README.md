@@ -1,4 +1,4 @@
-## Dansih wordClock
+## Danish wordClock
 
 Implementation of a wordclock in danish. The time will be told in 5 minute increments.
 
